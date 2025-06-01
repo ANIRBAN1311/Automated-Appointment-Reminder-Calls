@@ -24,7 +24,7 @@ A no-code, end-to-end solution that scans your calendar daily, extracts appointm
   Uses n8n’s AI Agent node to parse free-form meeting descriptions into a structured JSON schema:
   ```json
   {
-    "name": "Jane Doe",
+    "name": "",
     "phone": "",
     "reason": "",
     "startTime": "",
