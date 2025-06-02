@@ -2,6 +2,8 @@
 
 A no-code, end-to-end solution that scans your calendar daily, extracts appointment details via AI, and automatically calls customers to confirm or reschedule their appointments—saving businesses hours of manual outreach.
 
+![image](https://github.com/user-attachments/assets/27dab32c-a622-4dd7-a4b4-65f9008c310c)
+
 ## 🚀 Project Overview
 
 - **Name:** n8n + Retell AI – Automated Appointment Reminder Calls
